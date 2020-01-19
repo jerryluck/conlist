@@ -1,0 +1,12 @@
+{
+	"ret_code": 0,
+	"day": "20200510",
+	"weekDay": 7,
+	"begin": "20200509",
+	"end": "20200510",
+	"holiday_remark": "",
+	"type": "2",
+	"holiday": "ÖÜÄ©",
+	"en": "Sunday",
+	"cn": "ÖÜÈÕ"
+}
